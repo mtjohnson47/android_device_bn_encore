@@ -69,3 +69,4 @@ vendor/lib/libpvrANDROID_WSEGL.so
 vendor/lib/libsrv_init.so
 vendor/lib/libsrv_um.so
 vendor/lib/libusc.so
+lib/libaudiopolicy.so
